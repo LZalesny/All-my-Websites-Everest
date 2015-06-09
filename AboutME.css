@@ -1,0 +1,30 @@
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+table, tr, td {
+    border: 5px solid black;
+	}
+body{
+	-webkit-animation: myfirst 10s infinite; /* Chrome, Safari, Opera */
+    animation: myfirst 10s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes myfirst {
+    0% {background: red;}
+   25% {background: blue;}
+	50%{background: green;}
+	75%{background: yellow;}
+	100%{background: red;}
+}
+
+/* Standard syntax */
+@keyframes myfirst {
+    0% {background: red;}
+   25% {background: blue;}
+	50%{background: green;}
+	75%{background: yellow;}
+	100%{background: red;}
+}

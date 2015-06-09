@@ -1,0 +1,26 @@
+.square{
+    width:100px;
+    height:100px;
+}
+
+.square{
+    border-left:1px solid orange;
+    border-right:1px solid blue;
+}
+
+.square{
+    border-top:1px solid green;
+    border-bottom:1px solid yellow;
+}
+ td{
+	text-align: center;
+}
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+div{
+	text-align: center;
+	
+}

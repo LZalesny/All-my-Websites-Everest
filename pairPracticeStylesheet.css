@@ -1,0 +1,33 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: black;
+}
+
+body > div {
+  width: 100%;
+  border-radius: 5px;
+  background-color: red;
+}
+
+.navbarButton {
+  margin: auto;
+  text-align: center;
+  background-color: purple;
+}
+
+.navbarButton:hover {
+  background-color: blue;
+}
+
+#navbar {
+  height: 100px;
+  position: fixed;
+}
+
+#mainBody {
+  height: 1000px;
+  
+}

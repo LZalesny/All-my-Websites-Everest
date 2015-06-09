@@ -1,0 +1,11 @@
+table, tr, td {
+    border: 5px solid black;
+	}
+
+body{
+	background-image: url("ARTI.jpg");
+	background-size: cover;
+	}
+p{
+color: white;
+}

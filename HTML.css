@@ -1,0 +1,21 @@
+table, tr, td {
+    border: 5px solid black;
+}
+
+body{
+	background-image: url("css.jpg");
+	background-size: cover;
+}
+
+#container{
+	background-color:rgba(20,20,20,.9);
+	color:white;	
+}
+
+.image{
+	display: inline-block;
+}
+
+caption, img{
+	display: block;
+}
