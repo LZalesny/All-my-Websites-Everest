@@ -1,0 +1,17 @@
+#Metaknight {
+    display:none
+}
+
+#space3 {
+    display:none
+}
+
+#Starblock {
+    display:none
+}
+
+body {
+    -webkit-animation:myfirst 10s infinite;
+/* Chrome, Safari, Opera */
+    animation:myfirst 10s infinite
+}
